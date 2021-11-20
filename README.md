@@ -3,6 +3,8 @@
 <img align="center" alt="afsc_logo" src="src/afsc_ui.jpg" />
 </a>
 <hr>
+<p align="center">
+<img align="center" alt="afsc_logo" src="src/logo.png" /></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=52&center=true&vCenter=true&width=1000&height=80&lines=ADVANCED+FOLDER+STRUCTURE+CREATOR)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318F781&size=32&center=true&vCenter=true&width=1920&height=25&lines=v1.0.0)](https://git.io/typing-svg)
